@@ -11,7 +11,7 @@ I build projects for IT security in order to demonstrate the potential risks and
 
 - Field studied:
 . Programming 
-. Pentesting (IT,servers,Vpn,Wifi,...) 
+. Pentesting
 . Network  
 . Security Network
 . CanBus
